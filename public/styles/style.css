@@ -1,0 +1,49 @@
+body {
+    background-color: #00FF00; /* Bright green background */
+    color: #0000FF; /* Blue text */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Comic Sans font */
+    font-size: 20px; /* Large font size */
+    text-align: center; /* Centered text */
+}
+
+h1 {
+    font-size: 36px; /* Large heading */
+    color: #FF0000; /* Red color for headings */
+    text-decoration: underline; /* Underlined headings */
+}
+
+h2 {
+    font-size: 28px; /* Medium heading */
+    color: #FF00FF; /* Magenta color for subheadings */
+}
+
+a {
+    color: #FFFF00; /* Yellow links */
+    text-decoration: blink; /* Blinking links */
+}
+
+a:hover {
+    color: #FF00FF; /* Change color on hover */
+}
+
+img {
+    width: 300px; /* Fixed width for images */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.marquee {
+    font-size: 24px; /* Large font for marquee */
+    color: #FF4500; /* Orange color for marquee text */
+    background-color: #FFFFFF; /* White background for marquee */
+    padding: 10px; /* Padding around marquee */
+}
+
+.footer {
+    font-size: 16px; /* Smaller font for footer */
+    color: #000000; /* Black color for footer text */
+    position: fixed; /* Fixed position at the bottom */
+    bottom: 0; /* Align to bottom */
+    width: 100%; /* Full width */
+    background-color: #FFD700; /* Gold background for footer */
+    padding: 5px; /* Padding for footer */
+}

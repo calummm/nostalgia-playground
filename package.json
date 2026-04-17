@@ -1,0 +1,18 @@
+{
+  "name": "monty-python-larch-site",
+  "version": "1.0.0",
+  "description": "A fun homage to the Larch tree from Monty Python, styled like a 2000s Geocities webpage.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "Monty Python",
+    "Larch",
+    "trees",
+    "Geocities",
+    "2000s"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
